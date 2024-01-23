@@ -7,7 +7,7 @@ This project provides a robust and easy-to-integrate solution for authenticating
 # Features
 LDAP Integration: Utilize the Lightweight Directory Access Protocol (LDAP) to connect and authenticate against your Active Directory server.
 
-## Secure Authentication: Implement industry-standard security measures to protect user credentials and ensure a secure authentication process.
+Secure Authentication: Implement industry-standard security measures to protect user credentials and ensure a secure authentication process.
 
 Flexible Configuration: Easily adapt the authentication module to fit the specific requirements and structure of your Active Directory environment.
 
@@ -17,7 +17,7 @@ Error Handling: Comprehensive error handling to provide meaningful feedback to u
 Clone this repository.
 bash
 Copy code
-git clone https://github.com/yourusername/active-directory-authentication.git
+git clone https://github.com/nn2006/active-directory-authentication.git
 Follow the detailed setup instructions in the documentation to integrate Active Directory authentication into your project.
 
 Enhance and customize the authentication module based on your application's specific needs.
