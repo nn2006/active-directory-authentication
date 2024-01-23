@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)-8s %(message)s')
-dotenv_path1 = rf'C:\Users\MUCO126\OneDrive - Petroleum Development Oman\Desktop\handson\LDAP\update\.env'
+dotenv_path1 = rf'C:\Users\Adil\Desktop\handson\LDAP\update\.env'
 load_dotenv(dotenv_path1)
 print(dotenv_path1)
 #home = str(Path.home())
